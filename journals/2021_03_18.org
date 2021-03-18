@@ -2,7 +2,7 @@
 
 ** Alle sklar
 *** KsjdUnd was now
-*** Was gehts und so
+*** Was gehts und [[WAITING]] so
 ** TODO Jooo
 :PROPERTIES:
 :todo: 1616093662566
