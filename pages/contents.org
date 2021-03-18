@@ -521,17 +521,18 @@ Wer mir einen nachvollziehbaren Grund nennen kann, erwachsen zu werden, bekommt 
 #+end_quote
 
 ** DONE Buddha und die Wissenschaft vom Glück :book:
-CLOSED: [2017-09-01 Thu 16:52]
 :PROPERTIES:
-:EXPORT_FILE_NAME: buddha-und-die-wissenschaft-vom-glueck
+:later: 1616100373873
+:export_file_name: buddha-und-die-wissenschaft-vom-glueck
+:done: 1616100375205
 :END:
+CLOSED: [2017-09-01 Thu 16:52]
 
 | Autor                   |          ISBN |
 |-------------------------+---------------|
 | Yongey Mingyur Rinpoche | 9783641146979 |
 
 Den Großteil des Buches habe ich im Flieger gelesen.
-
 *** Zusammenfassung
 
 #+begin_quote
