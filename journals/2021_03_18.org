@@ -5,8 +5,8 @@
 *** Was gehts und [[WAITING]] so
 ** DOING Jooo
 :PROPERTIES:
-:todo: 1616093662566
-:doing: 1616100031751
+:doing: 1616100034078
+:todo: 1616100033279
 :END:
 *** ja und sonst so alles klar :D
 *** asdkjhasd
