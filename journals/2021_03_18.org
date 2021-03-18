@@ -3,10 +3,10 @@
 ** Alle sklar
 *** KsjdUnd was now
 *** Was gehts und [[WAITING]] so
-** DOING Jooo
+** TODO Jooo
 :PROPERTIES:
 :doing: 1616100034078
-:todo: 1616100033279
+:todo: 1616100035658
 :END:
 *** ja und sonst so alles klar :D
 *** asdkjhasd
